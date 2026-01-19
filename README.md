@@ -1,7 +1,10 @@
 # UAS Cyber Security – Kerentanan Website PHP
 
 ## Nama Kelompok :
-- 
+- Kadek Agus Supriadi (2201010332)
+- Ni Nyoman Ayumi Widiyani (2301010084)
+- Ida Ayu Putu Diah Wahyuni (2301010184)
+- Saverius Gagut ( 2301010626)
 
 Project ini dibuat untuk memenuhi tugas UAS Cyber Security berupa website PHP yang memiliki:
 - SQL Injection (versi rentan)

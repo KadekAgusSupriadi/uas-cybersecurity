@@ -2,7 +2,7 @@
 $koneksi = mysqli_connect("localhost","root","","uas_vuln");
 if(!$koneksi) die("DB error");
 
-define("SECURE_MODE", true);
+define("SECURE_MODE", false);
 session_start();
 
 /* ==============================
